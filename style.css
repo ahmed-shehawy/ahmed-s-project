@@ -106,6 +106,9 @@ footer {
     .about .btn{
         width: 70%;
     }
+    .trip .text {
+    flex: 1; /* استغلال المساحة المتاحة */
+}
 }
 .a12{
     text-align: center;
