@@ -99,6 +99,13 @@ footer {
     nav ul li {
         margin: 10px 0; 
     }
+    .about .image {
+       max-width: 100%;
+       height: auto;  
+    }
+    .about .btn{
+        width: 70%;
+    }
 }
 .a12{
     text-align: center;
